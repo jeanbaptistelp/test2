@@ -1,0 +1,20 @@
+Amorçage GIT
+
+ - git init
+
+ voir le status  
+
+ - git status
+
+ - ajout du fichier
+
+ - git add filename
+
+ // enregistrement ou commit
+
+ - git commit -m "comment"
+
+
+ // Branching
+
+ - git branch nameofthebranch
